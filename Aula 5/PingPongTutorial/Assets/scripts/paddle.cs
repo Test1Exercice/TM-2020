@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class paddle : MonoBehaviour
 {
-
-    public bool player;
     public float speed;
     public Rigidbody2D rb;
 
